@@ -14,4 +14,4 @@ Seleccione una opcion:
 """)
     main=input("Introduzca la opcion deseada: ")
     if main=="1":
-        
+        show_reportes():
