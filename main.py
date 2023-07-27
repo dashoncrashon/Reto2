@@ -1,5 +1,9 @@
 from obtencion import*
-
+from reportes import*
+from filtrado import*
+from estadistica import*
+from analisis import*
+from busqueda import*
 
 main=""
 while main!=0:
